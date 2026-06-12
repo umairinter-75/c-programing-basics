@@ -24,6 +24,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 ### Week 3
 * search1.c - A program that searches a particular integer from set of integers provided and gives response as "Found" or "Not found".
 * search2.c - A program that searches a particular string from set of strings provided and gives response as "Found" or "Not found".
+* phonebook.c - A program that that takes the input such as name and number of the following person into the code and and gives output when searched for the person's name.
+* iteration.c - A program that basically makes pyramids (those like in mario.c) when an input value is given and solves the code using the methosd of iteration.
+* recursion.c -  A program that basically makes pyramids (those like in mario.c) when an input value is given and solves the code using the methosd of recursion.
 
 
 
