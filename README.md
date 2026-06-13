@@ -27,6 +27,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * phonebook.c - A program that that takes the input such as name and number of the following person into the code and and gives output when searched for the person's name.
 * iteration.c - A program that basically makes pyramids (those like in mario.c) when an input value is given and solves the code using the methosd of iteration.
 * recursion.c -  A program that basically makes pyramids (those like in mario.c) when an input value is given and solves the code using the methosd of recursion.
+* struct.c - A program that gives the user the output of a candidate participated in an election by taking the input of name and number of votes as input from the user.
+* struct2.c - A program that gives the user the output of a candidate participated in an election by taking the input of name and number of votes as input from the user and creating a new function named get_candidate.
+* struct3.c - A program that gives the user the output of a maximum of three candidates participated in an election by taking the input of names and number of votes as input from the user and creating a new function named get_candidate.
 
 
 
