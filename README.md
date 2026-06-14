@@ -30,6 +30,7 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * struct.c - A program that gives the user the output of a candidate participated in an election by taking the input of name and number of votes as input from the user.
 * struct2.c - A program that gives the user the output of a candidate participated in an election by taking the input of name and number of votes as input from the user and creating a new function named get_candidate.
 * struct3.c - A program that gives the user the output of a maximum of three candidates participated in an election by taking the input of names and number of votes as input from the user and creating a new function named get_candidate.
+* fib.c - A program that use the principle of Fibonacci series in its code by taking the input from the user and a custom function named fib(int n) is used to provide the Fibonacci number from its series.
 
 
 
