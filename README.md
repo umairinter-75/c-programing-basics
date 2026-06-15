@@ -33,6 +33,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * factorial.c - A program that uses a custom made function named factorial(int n) to give the the following number provided by the user.
 * fib.c - A program that use the principle of Fibonacci series in its code by taking the input from the user and a custom function named fib(int n) is used to provide the Fibonacci number from its series.
 
+### Week 4
+*addresses.c - A program that uses the concept of pointers (*p) to locate a particular value in the computer's memory.
+
 
 
 ## How to run them
