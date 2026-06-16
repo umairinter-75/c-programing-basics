@@ -34,7 +34,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * fib.c - A program that use the principle of Fibonacci series in its code by taking the input from the user and a custom function named fib(int n) is used to provide the Fibonacci number from its series.
 
 ### Week 4
-*addresses.c - A program that uses the concept of pointers (*p) to locate a particular value in the computer's memory.
+* addresses.c - A program that uses the concept of pointers (*p) to locate a particular value in the computer's memory.
+* addresses2.c -  A program that uses the concept of pointers (*p) to locate a particular value of characters in the computer's memory.
+* addresses3.c -  A program that does not uses 'cs50.h' header file and uses the function char *s instead.
 
 
 
