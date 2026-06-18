@@ -37,6 +37,11 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * addresses.c - A program that uses the concept of pointers (*p) to locate a particular value in the computer's memory.
 * addresses2.c -  A program that uses the concept of pointers (*p) to locate a particular value of characters in the computer's memory.
 * addresses3.c -  A program that does not uses 'cs50.h' header file and uses the function char *s instead.
+* compare_int.c - A basic program that compares the two input values provided by the user and gives the output as "Same" or "Different".
+* compare_char.c - A program that uses "strcmp" function to compare the two words given as input by the user using the pointer named "char *" and gives the output as "Same" or "Different".
+* compare_char2.c - A program that uses "char *" as pointers to the wordsa given as input by the user and uses "%p" pointer to locate the the character in the memory of the computer.
+* copy.c - A program that copies the input provided by the user and use the pointer "char *" to allocate the other function and gives the output by changing the first letter of the word to the "uppercase" letter.
+* copy2.c - A program that copies the input provided by the user and uses the function strcpy to copy the words and gives the output by changing the first letter of the word to the "uppercase" letter.
 
 
 
