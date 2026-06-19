@@ -42,6 +42,7 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * compare_char2.c - A program that uses "char *" as pointers to the wordsa given as input by the user and uses "%p" pointer to locate the the character in the memory of the computer.
 * copy.c - A program that copies the input provided by the user and use the pointer "char *" to allocate the other function and gives the output by changing the first letter of the word to the "uppercase" letter.
 * copy2.c - A program that copies the input provided by the user and uses the function strcpy to copy the words and gives the output by changing the first letter of the word to the "uppercase" letter.
+* copy3.c - A program that copies the input provided by the user and uses the function strcpy to copy the words and performs error checks using "NULL" function and gives the output by changing the first letter of the word to the "uppercase" letter.
 
 
 
