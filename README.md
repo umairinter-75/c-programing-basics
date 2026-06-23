@@ -49,7 +49,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * phonebook2.c - A program that uses the functions like "fopen" to open a file, "fprintf" to dispaly a particular output and "fclose" to ccose a file. This file opens the location to phonebook.csv where all the info related to user and the contact number will be stored.
 * phonebook.csv - A progrsm that acts as the destination file for phonebook2.c where all the info related to user and the contact info is saved.
 * cp.c - A program that uses functions like "fopen" to open a file, "fread" to read the file, "fwrite" to write/edit a file an "fclose" to close a file.
-* copy.csv - A program that that creates the copy of phonebook.csv. 
+* copy.csv - A program that that creates the copy of phonebook.csv.
+* concatenate.c - A program which contains a function named "concat" that takes two strings and returns a concatenated version of the two strings.
+
 
 
 
