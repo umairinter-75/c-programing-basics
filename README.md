@@ -43,6 +43,19 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * copy.c - A program that copies the input provided by the user and use the pointer "char *" to allocate the other function and gives the output by changing the first letter of the word to the "uppercase" letter.
 * copy2.c - A program that copies the input provided by the user and uses the function strcpy to copy the words and gives the output by changing the first letter of the word to the "uppercase" letter.
 * copy3.c - A program that copies the input provided by the user and uses the function strcpy to copy the words and performs error checks using "NULL" function and gives the output by changing the first letter of the word to the "uppercase" letter.
+* swap.c - A program that requires the user to provide the intial input of variable in the code and the values get swapped in the output.
+* get.c - A program that uses the function "scanf" instead of applying the "get_int" function from the CS50 header file.
+* get_char.c - A program that uses the function "scanf" instead of applying the "get_string" function from the CS50 header file.
+* phonebook2.c - A program that uses the functions like "fopen" to open a file, "fprintf" to dispaly a particular output and "fclose" to ccose a file. This file opens the location to phonebook.csv where all the info related to user and the contact number will be stored.
+* phonebook.csv - A progrsm that acts as the destination file for phonebook2.c where all the info related to user and the contact info is saved.
+* cp.c - A program that uses functions like "fopen" to open a file, "fread" to read the file, "fwrite" to write/edit a file an "fclose" to close a file.
+* copy.csv - A program that that creates the copy of phonebook.csv. 
+
+
+
+
+
+
 
 
 
