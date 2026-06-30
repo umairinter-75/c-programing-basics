@@ -54,6 +54,10 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * create.c - A debugging program that creates the file given as input at the command-line. THe program will give '0'errors during debugging using the command "valgrind ./create test.c".
 * pdf.c - A program that  checks whether a file, passed in as a command-line argument, is (likely) a PDF.
 
+### Week 5
+* list.c - A program that creates a list by storing the values using 'arrays' and 'malloc' function and can be extended to larger memory by 'realloc' function.
+
+
 
 
 
