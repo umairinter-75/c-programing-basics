@@ -57,6 +57,9 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 ### Week 5
 * list.c - A program that creates a list by storing the values using 'arrays' and 'malloc' function and can be extended to larger memory by 'realloc' function.
 * list2.c - A program that uses a linked list to store numbers inputted by the user. It creates a linked list of nodes, each containing an integer and a pointer to the next node. The program prompts the user to enter three numbers, prepends each new number to the front of the list, and then prints the numbers in reverse order of input.
+* list3.c - This program creates a linked list of three numbers entered by the user. It defines a `node` structure that contains an integer and a pointer to the next node. The program allocates memory for each new node, prompts the user for a number, and appends the new node to the end of the list. If the list is empty, it initializes the list with the first node.
+
+
 
 
 
