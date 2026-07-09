@@ -61,6 +61,8 @@ This repository contains the C programs I am writing while taking Harvard's CS50
 * list4.c - An updated version of list3.c that uses a function to insert nodes into the list in sorted order. The function insert_node() takes a pointer to the head of the list and a number to insert, and returns a pointer to the new head of the list. The main function calls insert_node() for each number entered by the user, and then prints the sorted list. The unload() function is used to free the memory allocated for the list.
 * list5.c - A simple program from 'Section' of Week 5 that creates a linked list of three integers entered by the user. It defines a `node` structure with an integer `number` and a pointer to the next node. The program prompts the user to enter three integers, allocates memory for each new node, assigns the entered number to the node, and links it to the existing list. The list is built in reverse order, with the most recently entered number at the head of the list.
 * list6.c - A program that creates a linked list of integers, prints them, and then frees the memory allocated for the list.
+* hash.c - A program that takes a word and returns a hash value based on the first two letters of the word. The hash value is calculated by converting the first two letters to uppercase, subtracting 'A' from each letter to get their position in the alphabet (0-25), and then combining them into a single integer value. If the input word is NULL or empty, it returns -2. If the first two characters are not alphabetic, it returns -1.
+
 
 
 
